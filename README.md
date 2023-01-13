@@ -55,3 +55,6 @@
 ## Полезные боты
 - https://t.me/ciscoiosbot - поиск прошивок Cisco
 - https://t.me/networkeducationbot - бот network education с рандомными теоретическими вопросами
+
+## Подкасты
+- https://linkmeup.ru/podcasts/ - Подкасты Linkmeup. Доступен в [iTunes](https://itunes.apple.com/ru/podcast/linkmeup.-pervyj-podkast-dla/id1065445951?mt=2), [Google  Подкастах](https://podcasts.google.com/feed/aHR0cHM6Ly9saW5rbWV1cC5ydS9yc3MvcG9kY2FzdHM), [Яндекс Музыке](https://music.yandex.ru/album/7060168), [YouTube](https://youtube.com/c/linkmeup-podcast).
