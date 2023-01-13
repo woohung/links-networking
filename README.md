@@ -1,7 +1,7 @@
 # awesome-networking
 Список ресурсов по сетям и не только.
 
-## Комьюнити и саппорты по вендорам:
+## Комьюнити и саппорты по вендорам
 - https://t.me/eltex_experts - саппорт Eltex
 - https://t.me/fortichat - комьюнити Fortinet
 - https://t.me/arista_community_ru - комьюнити Arista
@@ -34,13 +34,13 @@
 - https://t.me/patchcord - очередной блог сетевика, о сетях и IT
 - https://t.me/school_network - крупный канал по изучению сетей
 
-## Авторские блоги:
+## Авторские блоги
 - http://www.labnfun.ru - блог Михаила Ермакова, увы, новых статей давно не было, но крайне много полезного материала по лабам
 - https://arny.ru/ - блог опытного сетевика, откуда, отчасти, начался и мой путь
 - https://woohung.github.io/ - блог за авторством меня
 - https://null.53bits.co.uk/ - подробные разборы hardware/software и не только.
 
-## Чаты и каналы по автоматизации:
+## Чаты и каналы по автоматизации
 ### Чаты
 - https://t.me/automate_devnet - чат по сетевой автоматизации
 
@@ -48,15 +48,15 @@
 - https://t.me/pyneng - канал Наташи Самойленко по сетевой автоматизации на Python
 - https://t.me/automate_net - канал Эмиля Гарипова по автоматизации
 
-## Github репы:
+## Github репы
 - https://github.com/skhomm/useful-wireless-links - все полезное по WI-FI в одном месте
 - https://github.com/tg-ntwrk/ntwrk.today/branches - статьи на темы ISP и не только, пушится на https://ntwrk.today/ (в репе можно найти неопубликованные материалы)
 - https://github.com/networktocode/awesome-network-automation - awesome по автоматизации
 
-## Полезные боты:
+## Полезные боты
 - https://t.me/ciscoiosbot - поиск прошивок Cisco
 - https://t.me/networkeducationbot - бот network education с рандомными теоретическими вопросами
 
-## Прошивки по вендорам:
+## Прошивки по вендорам
 - https://t.me/cisco_collection - Cisco
 - https://t.me/fortinet_partian - Fortinet
