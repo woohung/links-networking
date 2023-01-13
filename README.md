@@ -56,7 +56,3 @@
 ## Полезные боты
 - https://t.me/ciscoiosbot - поиск прошивок Cisco
 - https://t.me/networkeducationbot - бот network education с рандомными теоретическими вопросами
-
-## Прошивки по вендорам
-- https://t.me/cisco_collection - Cisco
-- https://t.me/fortinet_partian - Fortinet
