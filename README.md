@@ -32,6 +32,7 @@
 - https://t.me/netautomation - мой канал по сетям и автоматизации
 - https://t.me/patchcord - очередной блог сетевика, о сетях и IT
 - https://t.me/school_network - крупный канал по изучению сетей
+- https://t.me/terrible_telco - канал NOC-а Qrator Labs
 
 ## Авторские блоги
 - http://www.labnfun.ru - блог Михаила Ермакова, увы, новых статей давно не было, но крайне много полезного материала по лабам
