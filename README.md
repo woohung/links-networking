@@ -12,7 +12,7 @@
 - https://t.me/usergate - комьюнити UserGate
 - https://t.me/eveng_rus - комьюнити по EVE-NG, разделено на несколько тематических чатов.
 - https://t.me/Cisco_Collab - комьюнити Cisco Voice
-- cisco_collection_support - комьюнити Cisco, (закрытая группа, за инвайтом в телегу к @root1313)
+- https://t.me/+XOzbkhQbrjY1NmZk - комьюнити cisco_collection_support
 
 ## Чаты и каналы по сетям
 ### Чаты
