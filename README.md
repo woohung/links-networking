@@ -53,6 +53,7 @@
 - https://github.com/skhomm/useful-wireless-links - все полезное по WI-FI в одном месте
 - https://github.com/tg-ntwrk/ntwrk.today/branches - статьи на темы ISP и не только, пушится на https://ntwrk.today/ (в репе можно найти неопубликованные материалы)
 - https://github.com/networktocode/awesome-network-automation - awesome по автоматизации
+- https://github.com/facyber/awesome-networking - awesome по сетям
 
 ## Полезные боты
 - https://t.me/ciscoiosbot - поиск прошивок Cisco
