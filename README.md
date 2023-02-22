@@ -28,10 +28,10 @@
 - [@linkmeup_podcast](https://t.me/linkmeup_podcast) - канал Linkmeup
 - [@netskills](https://t.me/netskills) - канал Евгения Олькова по базовым вещам в сетях
 - [@mikrotikninja](https://t.me/mikrotikninja) - канал Дмитрия Бубнова, с нотками девопса
-- [@arny_ru](https://t.me/arny_ru) - блог опытного сетевого инженера, есть одноименный блог (https://arny.ru/).
+- [@arny_ru](https://t.me/arny_ru) - блог Андрея Лапшина, есть одноименный сайт (https://arny.ru/).
 - [@ntwrkchnnl](https://t.me/ntwrkchnnl) - канал опытного сетевика из чата ntwrk
 - [@netautomation](https://t.me/netautomation) - мой канал по сетям и автоматизации
-- [@patchcord](https://t.me/patchcord) - очередной блог сетевика, о сетях и IT
+- [@patchcord](https://t.me/patchcord) - новости из мира сетей в перемешку с авторским мнением.
 - [@school_network](https://t.me/school_network) - крупный канал по изучению сетей
 - [@terrible_telco](https://t.me/terrible_telco) - канал NOC-а Qrator Labs
 
