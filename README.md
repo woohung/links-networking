@@ -16,13 +16,15 @@
 
 ## Чаты и каналы по сетям
 ### Чаты
+#### Сети
 - [@linkmeup_chat](https://t.me/linkmeup_chat) - чат linkmeup.ru
 - [@nag_public](https://t.me/nag_public) - чат nag.ru
 - [@ntwrk](https://t.me/ntwrk) - общий сетевой чат
 - [@networking4everyone](https://t.me/networking4everyone) - чат Алексея Гусева (Автор: n4e.ru)
 - [@networkeducationru](https://t.me/networkeducationru) - чат Иннокентия Солнцева (Автор: networkeducation.ru)
-- [@EvilWirelessChat](https://t.me/EvilWirelessChat) - злой Wireless чат
 - [@miktrain](https://t.me/miktrain) / [@mikrotikclub](https://t.me/mikrotikclub) / [@router_os](https://t.me/router_os) - чаты по MikroTik
+#### Wireless
+- [@EvilWirelessChat](https://t.me/EvilWirelessChat) - злой Wireless чат
 
 ### Каналы
 #### Сети
@@ -31,7 +33,6 @@
 - [@mikrotikninja](https://t.me/mikrotikninja) - канал инженера, Дмитрия Бубнова, с нотками девопса
 - [@arny_ru](https://t.me/arny_ru) - блог сетевого инженера, Андрея Лапшина, есть одноименный сайт (https://arny.ru/).
 - [@ntwrkchnnl](https://t.me/ntwrkchnnl) - канал опытного сетевика из чата ntwrk
-- [@netautomation](https://t.me/netautomation) - мой канал по сетям и автоматизации
 - [@patchcord](https://t.me/patchcord) - новости из мира сетей в перемешку с авторским мнением.
 - [@school_network](https://t.me/school_network) - крупный канал по изучению сетей
 - [@terrible_telco](https://t.me/terrible_telco) - канал NOC-а Qrator Labs
@@ -51,6 +52,7 @@
 ### Каналы
 - [@pyneng](https://t.me/pyneng) - канал Наташи Самойленко по сетевой автоматизации на Python
 - [@automate_net](https://t.me/automate_net) - канал Эмиля Гарипова по автоматизации
+- [@netautomation](https://t.me/netautomation) - мой канал по сетям и автоматизации
 
 ## Github репы
 - [useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - все полезное по WI-FI в одном месте
