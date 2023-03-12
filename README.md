@@ -25,15 +25,18 @@
 - [@miktrain](https://t.me/miktrain) / [@mikrotikclub](https://t.me/mikrotikclub) / [@router_os](https://t.me/router_os) - чаты по MikroTik
 
 ### Каналы
+#### Сети
 - [@linkmeup_podcast](https://t.me/linkmeup_podcast) - канал Linkmeup
-- [@netskills](https://t.me/netskills) - канал Евгения Олькова по базовым вещам в сетях
-- [@mikrotikninja](https://t.me/mikrotikninja) - канал Дмитрия Бубнова, с нотками девопса
-- [@arny_ru](https://t.me/arny_ru) - блог Андрея Лапшина, есть одноименный сайт (https://arny.ru/).
+- [@netskills](https://t.me/netskills) - канал сетевого инженера, Евгения Олькова, по базовым вещам в сетях
+- [@mikrotikninja](https://t.me/mikrotikninja) - канал инженера, Дмитрия Бубнова, с нотками девопса
+- [@arny_ru](https://t.me/arny_ru) - блог сетевого инженера, Андрея Лапшина, есть одноименный сайт (https://arny.ru/).
 - [@ntwrkchnnl](https://t.me/ntwrkchnnl) - канал опытного сетевика из чата ntwrk
 - [@netautomation](https://t.me/netautomation) - мой канал по сетям и автоматизации
 - [@patchcord](https://t.me/patchcord) - новости из мира сетей в перемешку с авторским мнением.
 - [@school_network](https://t.me/school_network) - крупный канал по изучению сетей
 - [@terrible_telco](https://t.me/terrible_telco) - канал NOC-а Qrator Labs
+#### Wireless
+- [@ruckusrussia](https://t.me/ruckusrussia) - канал WI-FI инженера Ruckus, Андрея Скоробогатова
 
 ## Авторские блоги
 - [labnfun.ru](http://www.labnfun.ru) - блог Михаила Ермакова, увы, новых статей давно не было, но крайне много полезного материала по лабам
