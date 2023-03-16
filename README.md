@@ -14,7 +14,7 @@
 - [@Cisco_Collab](https://t.me/Cisco_Collab) - комьюнити Cisco Voice
 - [@cisco_collection_support](https://t.me/+XOzbkhQbrjY1NmZk) - комьюнити cisco_collection_support
 
-## Чаты и каналы по сетям
+## Чаты и каналы по сетям (Telegram)
 ### Чаты
 #### Сети
 - [@linkmeup_chat](https://t.me/linkmeup_chat) - чат linkmeup.ru
@@ -36,7 +36,7 @@
 - [@patchcord](https://t.me/patchcord) - новости из мира сетей в перемешку с авторским мнением.
 - [@school_network](https://t.me/school_network) - крупный канал по изучению сетей
 - [@terrible_telco](https://t.me/terrible_telco) - канал NOC-а Qrator Labs
-- [yurisk.info](https://yurisk.info) - блог по Fortinet (и не только) Юрия Слободянюка, сетевого инженера и FW эксперта
+
 #### Wireless
 - [@ruckusrussia](https://t.me/ruckusrussia) - полезный канал по Wi-Fi сетям, автор Андрей Скоробогатов
 
@@ -45,8 +45,9 @@
 - [arny.ru](https://arny.ru/) - блог опытного сетевика, откуда, отчасти, начался и мой путь
 - [woohung.github.io](https://woohung.github.io/) - блог за авторством меня
 - [null.53bits.co.uk](https://null.53bits.co.uk/) - подробные разборы hardware/software и не только.
+- [yurisk.info](https://yurisk.info) - блог по Fortinet (и не только) Юрия Слободянюка, сетевого инженера и FW эксперта
 
-## Чаты и каналы по автоматизации
+## Чаты и каналы по автоматизации (Telegram)
 ### Чаты
 - [@automate_devnet](https://t.me/automate_devnet) - чат по сетевой автоматизации
 
