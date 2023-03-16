@@ -36,7 +36,7 @@
 - [@patchcord](https://t.me/patchcord) - новости из мира сетей в перемешку с авторским мнением.
 - [@school_network](https://t.me/school_network) - крупный канал по изучению сетей
 - [@terrible_telco](https://t.me/terrible_telco) - канал NOC-а Qrator Labs
-- [https://yurisk.info] - блог по Fortinet (и не только) Юрия Слободянюка, сетевого инженера и FW эксперта
+- [yurisk.info](https://yurisk.info) - блог по Fortinet (и не только) Юрия Слободянюка, сетевого инженера и FW эксперта
 #### Wireless
 - [@ruckusrussia](https://t.me/ruckusrussia) - полезный канал по Wi-Fi сетям, автор Андрей Скоробогатов
 
