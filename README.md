@@ -104,6 +104,7 @@
 	- [RFC 1035 - DNS Specificcation](https://www.rfc-editor.org/rfc/rfc1035.html)
 - [RFC 4271 - A Border Gateway Protocol 4 (BGP-4)](https://www.rfc-editor.org/rfc/rfc4271.html)
 - [RFC 2328 - OSPFv2](https://www.rfc-editor.org/rfc/rfc2328)
+- [RFC 5880 - BFD](https://www.rfc-editor.org/rfc/rfc5880.html#section-6.2)
 - [RFC 3031 - Multiprotocol Label Switching Architecture](https://www.rfc-editor.org/rfc/rfc3031.html)
 - [RFC 7348 - VXLAN](https://www.rfc-editor.org/rfc/rfc7348.html)
 - [RFC 8446 - The Transport Layer Security (TLS) Protocol Version 1.3](https://www.rfc-editor.org/rfc/rfc8446.html)
