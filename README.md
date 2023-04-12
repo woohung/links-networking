@@ -18,6 +18,7 @@
 - [**Полезные Github-репозитории**](#полезные-github-репозитории)
 - [**Полезные боты**](#полезные-боты)
 - [**Подкасты**](#подкасты)
+- [**Must read RFCs**](#must-read-rfcs)
 
 # Комьюнити и саппорты по вендорам
 - [@eltex_experts](https://t.me/eltex_experts) - саппорт Eltex
@@ -87,5 +88,38 @@
 # Подкасты
 - [Подкаст Linkmeup](https://linkmeup.ru/podcasts/) - один из крупных ru подкастов по сетям и не только, доступен в [iTunes](https://itunes.apple.com/ru/podcast/linkmeup.-pervyj-podkast-dla/id1065445951?mt=2), [Google  Подкастах](https://podcasts.google.com/feed/aHR0cHM6Ly9saW5rbWV1cC5ydS9yc3MvcG9kY2FzdHM), [Яндекс Музыке](https://music.yandex.ru/album/7060168), [YouTube](https://youtube.com/c/linkmeup-podcast).
 - [NetDevOps Live!](https://www.youtube.com/playlist?list=PL2k86RlAekM-0_lErsVdS_xqQMLYRcdhU) - подкаст с Хэнком Престоном([@hfpreston](https://twitter.com/hfpreston)) и Ко (*более не ведется, но есть куча полезных записей*)
+
+# Must read RFCs
+- [RFC 1925 - 12 Network Truth](https://www.rfc-editor.org/rfc/rfc1925)
+- [RFC 791 - Internet Protocol](https://www.rfc-editor.org/rfc/rfc791.html)
+- [RFC 792 - ICMP](https://www.rfc-editor.org/rfc/rfc792.html)
+- [RFC 8200 - IPv6](https://www.rfc-editor.org/rfc/rfc8200)
+	- [RFC 4291 - IPv6 Addressing](https://www.rfc-editor.org/rfc/rfc4291.html)
+- [RFC 768 - UDP](https://www.rfc-editor.org/rfc/rfc768)
+- [RFC 9293 - TCP](https://www.rfc-editor.org/rfc/rfc9293.html)
+- [RFC 9000 - QUIC](https://www.rfc-editor.org/rfc/rfc9000.html)
+- [RFC 3022 - Traditional NAT](https://www.rfc-editor.org/rfc/rfc3022.html)
+- [RFC 2131 - DHCP](https://www.rfc-editor.org/rfc/rfc2131.html)
+- [RFC 1034 - DNS Concepts](https://www.rfc-editor.org/rfc/rfc1034.html)
+	- [RFC 1035 - DNS Specificcation](https://www.rfc-editor.org/rfc/rfc1035.html)
+- [RFC 4271 - A Border Gateway Protocol 4 (BGP-4)](https://www.rfc-editor.org/rfc/rfc4271.html)
+- [RFC 2328 - OSPFv2](https://www.rfc-editor.org/rfc/rfc2328)
+- [RFC 3031 - Multiprotocol Label Switching Architecture](https://www.rfc-editor.org/rfc/rfc3031.html)
+- [RFC 7348 - VXLAN](https://www.rfc-editor.org/rfc/rfc7348.html)
+- [RFC 8446 - The Transport Layer Security (TLS) Protocol Version 1.3](https://www.rfc-editor.org/rfc/rfc8446.html)
+- [RFC 6455 - WebSocket](https://www.rfc-editor.org/rfc/rfc6455.html)
+- [RFC 8259 - JSON](https://www.rfc-editor.org/rfc/rfc8259)
+- [RFC 2865 - RADIUS](https://www.rfc-editor.org/rfc/rfc2865.html)
+- [RFC 2866 - RADIUS Accounting](https://www.rfc-editor.org/rfc/rfc2866.html)
+
+Несколько интересных RFC, не относящиеся к конкретному протоколу:  
+- [RFC 8774 - # The Quantum Bug](https://www.rfc-editor.org/rfc/rfc8774.html)
+- [RFC 7938 - Use of BGP for Routing in Large-Scale Data Centers](https://www.rfc-editor.org/rfc/rfc7938.html)
+- [RFC 1122 - Requirements for Internet Hosts -- Communication Layers](https://www.rfc-editor.org/rfc/rfc1122.html)
+- [RFC 5218 - What Makes for a Successful Protocol?](https://www.rfc-editor.org/rfc/rfc5218.html)
+- [BCP 9 - The Internet Standards Process -- Revision 3](https://www.rfc-editor.org/rfc/rfc2026.html)
+- [BCP 95 - A Mission Statement for the IETF](https://www.rfc-editor.org/rfc/rfc3935.html)
+- [RFC 8890 - The Internet is for End Users](https://www.rfc-editor.org/rfc/rfc8890.html)
+- [RFC 8140 - ASCI Art](https://www.rfc-editor.org/rfc/rfc8140.html)
 
 [*К оглавлению*](#оглавление)
