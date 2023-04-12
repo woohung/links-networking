@@ -113,7 +113,7 @@
 - [RFC 2866 - RADIUS Accounting](https://www.rfc-editor.org/rfc/rfc2866.html)
 
 Несколько интересных RFC, не относящиеся к конкретному протоколу:  
-- [RFC 8774 - # The Quantum Bug](https://www.rfc-editor.org/rfc/rfc8774.html)
+- [RFC 8774 - The Quantum Bug](https://www.rfc-editor.org/rfc/rfc8774.html)
 - [RFC 7938 - Use of BGP for Routing in Large-Scale Data Centers](https://www.rfc-editor.org/rfc/rfc7938.html)
 - [RFC 1122 - Requirements for Internet Hosts -- Communication Layers](https://www.rfc-editor.org/rfc/rfc1122.html)
 - [RFC 5218 - What Makes for a Successful Protocol?](https://www.rfc-editor.org/rfc/rfc5218.html)
