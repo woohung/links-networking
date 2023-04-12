@@ -120,6 +120,6 @@
 - [BCP 9 - The Internet Standards Process -- Revision 3](https://www.rfc-editor.org/rfc/rfc2026.html)
 - [BCP 95 - A Mission Statement for the IETF](https://www.rfc-editor.org/rfc/rfc3935.html)
 - [RFC 8890 - The Internet is for End Users](https://www.rfc-editor.org/rfc/rfc8890.html)
-- [RFC 8140 - ASCI Art](https://www.rfc-editor.org/rfc/rfc8140.html)
+- [RFC 8140 - ASCII Art](https://www.rfc-editor.org/rfc/rfc8140.html)
 
 [*К оглавлению*](#оглавление)
