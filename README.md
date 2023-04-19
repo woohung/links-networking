@@ -92,6 +92,7 @@
 # Must read RFCs
 - [RFC 1925 - 12 Network Truth](https://www.rfc-editor.org/rfc/rfc1925)
 - [RFC 791 - Internet Protocol](https://www.rfc-editor.org/rfc/rfc791.html)
+- [RFC 1191 - PMTUD](https://www.rfc-editor.org/rfc/rfc1191)
 - [RFC 792 - ICMP](https://www.rfc-editor.org/rfc/rfc792.html)
 - [RFC 8200 - IPv6](https://www.rfc-editor.org/rfc/rfc8200)
 	- [RFC 4291 - IPv6 Addressing](https://www.rfc-editor.org/rfc/rfc4291.html)
