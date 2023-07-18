@@ -34,6 +34,7 @@
 - [@cisco_collection_support](https://t.me/+XOzbkhQbrjY1NmZk) - комьюнити cisco_collection_support
 - [@openwrt_ru](https://t.me/openwrt_ru) - комьюнити OpenWRT
 - [@sterravpn](https://t.me/sterravpn) - комьюнити С-Терра
+- [@panrussian](https://t.me/panrussian) - комьюнити Palo Alto
 
 # Чаты и каналы по сетям
 ## Сетевые чаты
