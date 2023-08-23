@@ -38,6 +38,7 @@
 
 # Чаты и каналы по сетям
 ## Сетевые чаты
+- [@ngfw_russia](https://t.me/ngfw_russia) - обсуждение NGFW
 - [@linkmeup_chat](https://t.me/linkmeup_chat) - чат linkmeup.ru
 - [@nag_public](https://t.me/nag_public) - чат nag.ru
 - [@ntwrk](https://t.me/ntwrk) - общий сетевой чат
