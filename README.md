@@ -45,6 +45,7 @@
 - [@networking4everyone](https://t.me/networking4everyone) - чат Алексея Гусева (Автор: n4e.ru)
 - [@networkeducationru](https://t.me/networkeducationru) - чат Иннокентия Солнцева (Автор: networkeducation.ru)
 - [@miktrain](https://t.me/miktrain) / [@mikrotikclub](https://t.me/mikrotikclub) / [@router_os](https://t.me/router_os) - чаты по MikroTik
+- [@jncie_talks](https://t.me/jncie_talks) - чат по Juniper
 
 ## Wireless чаты
 - [@EvilWirelessChat](https://t.me/EvilWirelessChat) - злой Wireless чат
