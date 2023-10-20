@@ -1,6 +1,6 @@
 # Список ресурсов по сетям и автоматизации
 Считаю, что у сетевиков тоже должен быть свой awesome-лист с полезностями.   
-Есть что добавить? Оставляй Pull Request. Будь локоничен в описании ресурса и придерживайся общего стиля оформления.  
+Есть что добавить? Оставляй Pull Request. Будь лаконичен в описании ресурса и придерживайся общего стиля оформления.  
 
 > По остальным вопросами прошу в телегу: [@Woo_Hung](https://t.me/Woo_Hung)  
 
@@ -24,7 +24,7 @@
 - [@eltex_experts](https://t.me/eltex_experts) - саппорт Eltex
 - [@fortichat](https://t.me/fortichat) - комьюнити Fortinet
 - [@arista_community_ru](https://t.me/arista_community_ru) - комьюнити Arista
-- [@Keenetic_ru](https://t.me/Keenetic_ru) - саппорт Keenetic
+- [@Keenetic_ru](https://t.me/Keenetic_ru) - комьюнити Keenetic
 - [@ekahau_rus](https://t.me/ekahau_rus) - комьюнити Ekahau
 - [@chkpchat](https://t.me/chkpchat) - комьюнити Check-Point
 - [@mikrotik_rus](https://t.me/mikrotik_rus) - комьюнити Mikrotik
