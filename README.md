@@ -78,6 +78,8 @@
 - [woohung.github.io](https://woohung.github.io/) - блог за авторством меня
 - [null.53bits.co.uk](https://null.53bits.co.uk/) - подробные разборы hardware/software и не только.
 - [yurisk.info](https://yurisk.info) - блог по Fortinet (и не только) Юрия Слободянюка, сетевого инженера и FW эксперта
+- [yurmagccie.wordpress.com/](https://yurmagccie.wordpress.com/) - блог Юрия Руденко по сетям Cisco.
+- [theworldsgonemad.net/](https://theworldsgonemad.net/) - блог инженера из Лондона, сети + автоматизация.
 
 # Полезные Github-репозитории
 - [useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - все полезное по WI-FI в одном месте
