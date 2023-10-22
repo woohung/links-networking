@@ -59,6 +59,7 @@
 - [@patchcord](https://t.me/patchcord) - новости из мира сетей в перемешку с авторским мнением.
 - [@school_network](https://t.me/school_network) - крупный канал по изучению сетей
 - [@terrible_telco](https://t.me/terrible_telco) - канал NOC-а Qrator Labs
+- [@NetArchNotes](https://t.me/NetArchNotes) - Заметки сетевого архитектора. С матами.
 
 ## Каналы по wireless
 - [@ruckusrussia](https://t.me/ruckusrussia) - полезный канал по Wi-Fi сетям, автор Андрей Скоробогатов
