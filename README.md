@@ -62,7 +62,6 @@
 - [@NetArchNotes](https://t.me/NetArchNotes) - Заметки сетевого архитектора. С матами.
 
 ## Каналы по wireless
-- [@ruckusrussia](https://t.me/ruckusrussia) - полезный канал по Wi-Fi сетям, автор Андрей Скоробогатов
 - [@EvilWirelessMan](https://t.me/EvilWirelessMan) - канал от Evil Wireless чатика
 
 # Чаты и каналы по автоматизации
