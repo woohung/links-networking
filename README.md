@@ -30,6 +30,7 @@
 - [@chkpchat](https://t.me/chkpchat) - комьюнити Check-Point
 - [@mikrotik_rus](https://t.me/mikrotik_rus) - комьюнити Mikrotik
 - [@usergate](https://t.me/usergate) - комьюнити UserGate
+- [@apksh](https://t.me/apksh) - комьюнити АПКШ Континент
 - [@eveng_rus](https://t.me/eveng_rus) - комьюнити по EVE-NG, разделено на несколько тематических чатов.
 - [@Cisco_Collab](https://t.me/Cisco_Collab) - комьюнити Cisco Voice
 - [@cisco_collection_support](https://t.me/+XOzbkhQbrjY1NmZk) - комьюнити cisco_collection_support
