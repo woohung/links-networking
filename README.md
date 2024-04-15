@@ -37,6 +37,7 @@
 - [@openwrt_ru](https://t.me/openwrt_ru) - комьюнити OpenWRT
 - [@sterravpn](https://t.me/sterravpn) - комьюнити С-Терра
 - [@panrussian](https://t.me/panrussian) - комьюнити Palo Alto
+- [@vmugru](https://t.me/vmugru) - комьюнити VMWare
 
 # Чаты и каналы по сетям
 ## Сетевые чаты
