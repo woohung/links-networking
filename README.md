@@ -45,7 +45,7 @@
 - [@apksh](https://t.me/apksh) - комьюнити АПКШ Континент
 - [@eveng_rus](https://t.me/eveng_rus) - комьюнити по EVE-NG, разделено на несколько тематических чатов.
 - [@Cisco_Collab](https://t.me/Cisco_Collab) - комьюнити Cisco Voice
-- [@cisco_collection_support](https://t.me/+XOzbkhQbrjY1NmZk) - комьюнити cisco_collection_support
+- [@cisco_collection_support](https://t.me/+dDkgC6YKCss1NjY0) - комьюнити cisco_collection_support
 - [@openwrt_ru](https://t.me/openwrt_ru) - комьюнити OpenWRT
 - [@sterravpn](https://t.me/sterravpn) - комьюнити С-Терра
 - [@panrussian](https://t.me/panrussian) - комьюнити Palo Alto
