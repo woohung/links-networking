@@ -84,7 +84,6 @@
 - [@automate_devnet](https://t.me/automate_devnet) - чат по сетевой автоматизации
 
 ## Каналы по автоматизации
-- [@pyneng](https://t.me/pyneng) - канал Наташи Самойленко по сетевой автоматизации на Python
 - [@automate_net](https://t.me/automate_net) - канал Эмиля Гарипова по автоматизации
 - [@netautomation](https://t.me/netautomation) - мой канал по сетям и автоматизации
 
@@ -150,7 +149,6 @@
 - [awesome-networking](https://github.com/facyber/awesome-networking) - awesome по сетям
 
 # Полезные боты
-- [@ciscoiosbot](https://t.me/ciscoiosbot) - поиск прошивок Cisco
 - [@networkeducationbot](https://t.me/networkeducationbot) - бот network education с рандомными теоретическими вопросами
 
 # Подкасты
