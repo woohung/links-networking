@@ -6,15 +6,27 @@
 
 # Оглавление
 - [**Комьюнити и саппорты по вендорам**](#комьюнити-и-саппорты-по-вендорам)
-- [**Чаты и каналы по сетям (Telegram)**](#чаты-и-каналы-по-сетям)
+- **Чаты и каналы по сетям (Telegram)**
   - [Сетевые чаты](#сетевые-чаты)
   - [Wireless чаты](#wireless-чаты)
   - [Каналы по сетям](#каналы-по-сетям)
   - [Каналы по wireless](#каналы-по-wireless)
-- [**Чаты и каналы по автоматизации (Telegram)**](#чаты-и-каналы-по-автоматизации)
+- **Чаты и каналы по автоматизации (Telegram)**
   - [Чаты по автоматизации](#чаты-по-автоматизации)
   - [Каналы по автоматизации](#каналы-по-автоматизации)
-- [**Авторские блоги**](#авторские-блоги)
+- **Авторские блоги**
+  - [Сети](#сети)
+  - [Безопасность](#безопасность)
+  - [Автоматизация](#автоматизация)
+  - [Wireless](#wireless)
+- **Статьи, журналы, справочные материалы, курсы где искать инфу и пр.**
+  - [Открывашки](#открывашки)
+  - [Исторически так сложилось](#исторически-так-сложилось)
+  - [Справочные материалы](#справочные-материалы)
+  - [Профильные журналы](#профильные-журналы)
+  - **Курсы**
+    - [По сетям](#по-сетям)
+    - [По автоматизации](#по-автоматизации)
 - [**Полезные Github-репозитории**](#полезные-github-репозитории)
 - [**Полезные боты**](#полезные-боты)
 - [**Подкасты**](#подкасты)
@@ -77,13 +89,58 @@
 - [@netautomation](https://t.me/netautomation) - мой канал по сетям и автоматизации
 
 # Авторские блоги
+## Сети
 - [labnfun.ru](http://www.labnfun.ru) - блог Михаила Ермакова, увы, новых статей давно не было, но крайне много полезного материала по лабам
 - [arny.ru](https://arny.ru/) - блог опытного сетевика, откуда, отчасти, начался и мой путь
-- [woohung.github.io](https://woohung.github.io/) - блог за авторством меня
-- [null.53bits.co.uk](https://null.53bits.co.uk/) - подробные разборы hardware/software и не только.
-- [yurisk.info](https://yurisk.info) - блог по Fortinet (и не только) Юрия Слободянюка, сетевого инженера и FW эксперта
 - [yurmagccie.wordpress.com/](https://yurmagccie.wordpress.com/) - блог Юрия Руденко по сетям Cisco.
 - [theworldsgonemad.net/](https://theworldsgonemad.net/) - блог инженера из Лондона, сети + автоматизация (не обновляется с конца 2022 года).
+- [lostintransit.se](https://lostintransit.se) - блог инженера (сети, автоматизация), Daniel Dib, Senior Network Architect в Conscia Netsafe.
+- [blog.benjojo.co.uk](https://blog.benjojo.co.uk/) - блог создателя bgp.tools, Ben Cartwright-Cox
+- [vincent.bernat.ch](https://vincent.bernat.ch/en) - блоги инженера из французского ISP, Vincent Bernat
+- [networkdefenseblog.com](https://www.networkdefenseblog.com) - блог инженера (сети, автоматизация, безопасность), Brandon Hitzel
+- [majornetwork.net](https://majornetwork.net/) - блог сетевого архитектора из Финляндии, Markku Leiniö
+
+## Безопасность
+- [yurisk.info](https://yurisk.info) - блог по Fortinet (и не только) Юрия Слободянюка, сетевого инженера и FW эксперта
+
+## Автоматизация
+- [null.53bits.co.uk](https://null.53bits.co.uk/) - подробные разборы hardware/software и не только.
+- [woohung.github.io](https://woohung.github.io/) - блог за авторством меня
+
+## Wireless
+- [mrncciew.com](https://mrncciew.com) - Блог с полезными статьями по беспроводным технологиям, Rasika Nayanajith
+- [rowelldionicio.com](https://rowelldionicio.com) - Блог с полезными статьями по беспроводным технологиям, Rowell Dionicio
+
+# Статьи, журналы, справочные материалы, курсы, где искать инфу и пр.
+## Открывашки
+- [Аннушка](https://annas-archive.org) - Огромная электронная библиотека
+- [sci-hub.ru](https://sci-hub.ru/) - Открывашка научных трудов, например стаднартов IEEE, научных статей и пр.
+
+## Исторически так сложилось
+- [archive.org](https://archive.org/) - Архив сайтов всея Интернета
+- [historyCS](https://historyofcomputercommunications.info) - Ретроспектива Computer Science (интервью, стенграммы, статьи и пр.)
+
+## Справочные материалы
+- [switch-asic](https://isp-tech.ru/switch-asic/) - Таблица сравнение коммутаторов различных вендоров
+- [Linux Kernel Map](https://makelinux.github.io/kernel/map/) - Карта ядра Linux
+- [open-source-networking-projects](https://packetpushers.net/blog/open-source-networking-projects/) - Open-source проекты по сетям
+- [bgp.tools](https://bgp.tools) - realtime BGP collector
+- [bscottrandall.com](http://www.bscottrandall.com) - разборы тем CCIE, вполне годится как справочник
+- [looking-glasses](https://www.bgp4.as/looking-glasses/) - список BGP LG
+- [nornir.tech templates](https://textfsm.nornir.tech) - удобное написание шаблонов TextFSM, TTP, Jinja2
+- [VIM how works](https://moolenaar.net/habits.html) - философия VIM
+
+## Профильные журналы
+- [ipj.dreamhosters.com](https://ipj.dreamhosters.com/internet-protocol-journal/issues/back-issues/) - Архив выпусков журнала "The Internet Protocol Journal"
+- [ccni.ru](https://www.ccni.ru/publications/) - Архив выпусков журнала "Интернет изнутри"
+
+## Курсы
+### По сетям
+- [bgplabs.net](https://bgplabs.net) - не совсем курс, но вполне сойдет за самостоятельное погружение в BGP на основе лаб.
+
+### По Автоматизации
+- [zerotohero.netbox.dev](https://zerotohero.netbox.dev) - Курс по вкатыванию в NetBox
+- [ohmygit.org](https://ohmygit.org) - игровой вариант изучения GIT
 
 # Полезные Github-репозитории
 - [useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - все полезное по WI-FI в одном месте
@@ -97,8 +154,9 @@
 - [@networkeducationbot](https://t.me/networkeducationbot) - бот network education с рандомными теоретическими вопросами
 
 # Подкасты
-- [Подкаст Linkmeup](https://linkmeup.ru/podcasts/) - один из крупных ru подкастов по сетям и не только, доступен в [iTunes](https://itunes.apple.com/ru/podcast/linkmeup.-pervyj-podkast-dla/id1065445951?mt=2), [Google  Подкастах](https://podcasts.google.com/feed/aHR0cHM6Ly9saW5rbWV1cC5ydS9yc3MvcG9kY2FzdHM), [Яндекс Музыке](https://music.yandex.ru/album/7060168), [YouTube](https://youtube.com/c/linkmeup-podcast).
+- [Linkmeup](https://linkmeup.ru/podcasts/) - один из крупных ru подкастов по сетям и не только, доступен в [iTunes](https://itunes.apple.com/ru/podcast/linkmeup.-pervyj-podkast-dla/id1065445951?mt=2), [Google  Подкастах](https://podcasts.google.com/feed/aHR0cHM6Ly9saW5rbWV1cC5ydS9yc3MvcG9kY2FzdHM), [Яндекс Музыке](https://music.yandex.ru/album/7060168), [YouTube](https://youtube.com/c/linkmeup-podcast).
 - [NetDevOps Live!](https://www.youtube.com/playlist?list=PL2k86RlAekM-0_lErsVdS_xqQMLYRcdhU) - подкаст с Хэнком Престоном([@hfpreston](https://twitter.com/hfpreston)) и Ко (*более не ведется, но есть куча полезных записей*)
+- [The Art of Network Engineering](https://www.youtube.com/channel/UCqY5QnYKJZE8tH7yhxmN5DA) - подкаст The Art of Network Engineering на YouTube
 
 # Must read RFCs
 - [RFC 1925 - 12 Network Truth](https://www.rfc-editor.org/rfc/rfc1925)
