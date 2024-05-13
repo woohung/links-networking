@@ -36,6 +36,7 @@
 - [@eltex_experts](https://t.me/eltex_experts) - саппорт Eltex
 - [@fortichat](https://t.me/fortichat) - комьюнити Fortinet
 - [@arista_community_ru](https://t.me/arista_community_ru) - комьюнити Arista
+- [@arubahpe](https://t.me/arubahpe) - комьюнити HPE/Aruba
 - [@huawei_rus](https://t.me/+mbMWFqJ5iuE3MTJi) - комьюнити Huawei
 - [@Keenetic_ru](https://t.me/Keenetic_ru) - комьюнити Keenetic
 - [@ekahau_rus](https://t.me/ekahau_rus) - комьюнити Ekahau
