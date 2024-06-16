@@ -145,7 +145,7 @@
 # Полезные Github-репозитории
 - [useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - все полезное по WI-FI в одном месте
 - [ekahau-guides](https://github.com/gcastle2007/Ekahau) - небольшие гайды на частые проблемы/задачи c Ekahau/Sidecick.
-- [ntwrk.today](https://github.com/tg-ntwrk/ntwrk.today/branches) - статьи на темы ISP и не только, пушится на https://ntwrk.today/ (в репе можно найти неопубликованные материалы)
+- [ntwrk.today](https://github.com/tg-ntwrk/ntwrk.today) - статьи на темы ISP и не только, пушится на https://ntwrk.today/ (в репе можно найти неопубликованные материалы)
 - [awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - awesome по автоматизации
 - [awesome-networking](https://github.com/facyber/awesome-networking) - awesome по сетям
 
