@@ -172,6 +172,7 @@ ___
 
 ### По Автоматизации
 - [zerotohero.netbox.dev](https://zerotohero.netbox.dev) - Курс по вкатыванию в NetBox
+- [ohmygit.org](https://ohmygit.org) - игровой вариант изучения GIT
 
 # Лаборатория юного сетевика
 ## Образы
@@ -184,9 +185,6 @@ ___
 - [pnetlab]()
 - [containerlab]()
 - [netlab]()
-
-
-- [ohmygit.org](https://ohmygit.org) - игровой вариант изучения GIT
 
 # Полезные Github-репозитории
 - [useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - все полезное по WI-FI в одном месте
