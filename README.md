@@ -18,20 +18,29 @@
   - [Сети](#сети)
   - [Безопасность](#безопасность)
   - [Автоматизация](#автоматизация)
+  - [Python](#python)
   - [Wireless](#wireless)
 - **Статьи, журналы, справочные материалы, курсы где искать инфу и пр.**
   - [Открывашки](#открывашки)
   - [Исторически так сложилось](#исторически-так-сложилось)
   - [Справочные материалы](#справочные-материалы)
   - [Профильные журналы](#профильные-журналы)
-  - **Курсы**
+  - [Youtube каналы](#youtube-каналы)
+  - [Книги](#книги)
+    - [Начинающим](#начинающим)
+    - [Продолжающим](#продолжающим)
+  - [Курсы](#курсы)
     - [По сетям](#по-сетям)
     - [По автоматизации](#по-автоматизации)
+- **Лаборатория юного сетевика**
+  - [Образы](#образы)
+  - [Эмуляторы](#эмуляторы)
+
 - [**Полезные Github-репозитории**](#полезные-github-репозитории)
 - [**Полезные боты**](#полезные-боты)
 - [**Подкасты**](#подкасты)
 - [**Must read RFCs**](#must-read-rfcs)
-
+___
 # Комьюнити и саппорты по вендорам
 - [@eltex_experts](https://t.me/eltex_experts) - саппорт Eltex
 - [@fortichat](https://t.me/fortichat) - комьюнити Fortinet
@@ -99,13 +108,20 @@
 - [vincent.bernat.ch](https://vincent.bernat.ch/en) - блоги инженера из французского ISP, Vincent Bernat
 - [networkdefenseblog.com](https://www.networkdefenseblog.com) - блог инженера (сети, автоматизация, безопасность), Brandon Hitzel
 - [majornetwork.net](https://majornetwork.net/) - блог сетевого архитектора из Финляндии, Markku Leiniö
+- [Nick Russo Website Homepage](https://njrusmc.net) - сайт сетевого инженера Ника Руссо (RIP)
 
 ## Безопасность
 - [yurisk.info](https://yurisk.info) - блог по Fortinet (и не только) Юрия Слободянюка, сетевого инженера и FW эксперта
 
 ## Автоматизация
 - [null.53bits.co.uk](https://null.53bits.co.uk/) - подробные разборы hardware/software и не только.
+- [dteslya.engineer](https://dteslya.engineer/blog) - блог сетевого инженера Дмитрия Тесли
 - [woohung.github.io](https://woohung.github.io/) - блог за авторством меня
+- [Blog Andrea Dainese](https://www.adainese.it/#about) - блог Andrea Dainese одного из отцов Unetlab
+- [kaonbytes](https://kaonbytes.com) - блок сетевика автоматизатора с описанием комплексных кейсов
+
+## Python
+- [martinheinz](https://martinheinz.dev) - блог software developer/DevOps engineer из Словакии
 
 ## Wireless
 - [mrncciew.com](https://mrncciew.com) - Блог с полезными статьями по беспроводным технологиям, Rasika Nayanajith
@@ -114,6 +130,7 @@
 # Статьи, журналы, справочные материалы, курсы, где искать инфу и пр.
 ## Открывашки
 - [Аннушка](https://annas-archive.org) - Огромная электронная библиотека
+- [Libgen](https://libgen.is/) - Книги, включая специфическую литературу
 - [sci-hub.ru](https://sci-hub.ru/) - Открывашка научных трудов, например стаднартов IEEE, научных статей и пр.
 
 ## Исторически так сложилось
@@ -130,9 +147,24 @@
 - [nornir.tech templates](https://textfsm.nornir.tech) - удобное написание шаблонов TextFSM, TTP, Jinja2
 - [VIM how works](https://moolenaar.net/habits.html) - философия VIM
 
+## Cheat-Sheet
+- [The Illustrated QUIC Connection](https://quic.xargs.org) - как работает QUIC
+- [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org) - как работает TLS 1.3
+
 ## Профильные журналы
 - [ipj.dreamhosters.com](https://ipj.dreamhosters.com/internet-protocol-journal/issues/back-issues/) - Архив выпусков журнала "The Internet Protocol Journal"
 - [ccni.ru](https://www.ccni.ru/publications/) - Архив выпусков журнала "Интернет изнутри"
+
+## Youtube каналы
+- [Calvin Remsburg](https://www.youtube.com/@CalvinRemsburg0/videos) - канал Кевина Ремсбурга, по большей части стримы по сетевой автоматизации
+- Please stand by...
+
+## Книги
+### Начинающим
+- Please stand by...
+### Продолжающим
+- [Где сохранить пакет?](https://where-to-store-the-packet.readthedocs.io/en/latest/contents.html) - книжка Марата Сибгатулина о путеществии пакета
+- [Как работает TLS](https://tls.dxdt.ru/tls.html) - обстоятельное чтиво, если хотите разобраться в деталях TLS
 
 ## Курсы
 ### По сетям
@@ -140,6 +172,20 @@
 
 ### По Автоматизации
 - [zerotohero.netbox.dev](https://zerotohero.netbox.dev) - Курс по вкатыванию в NetBox
+
+# Лаборатория юного сетевика
+## Образы
+- [LabHub](https://labhub.eu.org) - Образы для Eve-ng/Pnetlab/GNS3
+  - [Telegram LabHub](https://t.me/NetLabHub) - Новостная телега проекта LabHub
+## Эмуляторы
+- [ns3]()
+- [gns3]()
+- [eve-ng]()
+- [pnetlab]()
+- [containerlab]()
+- [netlab]()
+
+
 - [ohmygit.org](https://ohmygit.org) - игровой вариант изучения GIT
 
 # Полезные Github-репозитории
