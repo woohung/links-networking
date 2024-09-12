@@ -9,6 +9,7 @@
 - **Чаты и каналы по сетям (Telegram)**
   - [Сетевые чаты](#сетевые-чаты)
   - [Wireless чаты](#wireless-чаты)
+  - [Security чаты](#security-чаты)
   - [Каналы по сетям](#каналы-по-сетям)
   - [Каналы по wireless](#каналы-по-wireless)
 - **Чаты и каналы по автоматизации (Telegram)**
@@ -63,7 +64,6 @@ ___
 
 # Чаты и каналы по сетям
 ## Сетевые чаты
-- [@ngfw_russia](https://t.me/ngfw_russia) - обсуждение NGFW
 - [@linkmeup_chat](https://t.me/linkmeup_chat) - чат linkmeup.ru
 - [@nag_public](https://t.me/nag_public) - чат nag.ru
 - [@ntwrk](https://t.me/ntwrk) - общий сетевой чат
@@ -75,6 +75,9 @@ ___
 
 ## Wireless чаты
 - [@EvilWirelessChat](https://t.me/EvilWirelessChat) - злой Wireless чат
+
+## Security чаты
+- [@tlsusegroup](https://t.me/tlsusegroup) - группа для обсуждения и помощи участникам в вопросах использования Российских реализаций ГОСТ TLS (Континент TLS, КриптоПРО Ngate, VIPNet TLS)
 
 ## Каналы по сетям 
 - [@linkmeup_podcast](https://t.me/linkmeup_podcast) - канал Linkmeup
