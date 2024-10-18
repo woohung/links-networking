@@ -123,6 +123,7 @@ ___
 - [woohung.github.io](https://woohung.github.io/) - блог за авторством меня
 - [Blog Andrea Dainese](https://www.adainese.it/#about) - блог Andrea Dainese одного из отцов Unetlab
 - [kaonbytes](https://kaonbytes.com) - блок сетевика автоматизатора с описанием комплексных кейсов
+- [ScriptNinja](https://scriptninja.blog/) - блок сетевого инженера из Австралии про автоматизацию.
 
 ## Python
 - [martinheinz](https://martinheinz.dev) - блог software developer/DevOps engineer из Словакии
