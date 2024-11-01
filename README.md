@@ -159,7 +159,7 @@ ___
 ## Профильные журналы
 - [ipj.dreamhosters.com](https://ipj.dreamhosters.com/internet-protocol-journal/issues/back-issues/) - Архив выпусков журнала "The Internet Protocol Journal"
 - [ccni.ru](https://www.ccni.ru/publications/) - Архив выпусков журнала "Интернет изнутри"
-- [Computer Networks]([https://www.sciencedirect.com/journal/computer-networks](https://www.sciencedirect.com/journal/computer-networks/issues)) - Архив выпусков журнала "Computer Networks"
+- [Computer Networks](https://www.sciencedirect.com/journal/computer-networks/issues) - Архив выпусков журнала "Computer Networks"
 
 ## Youtube каналы
 - [Calvin Remsburg](https://www.youtube.com/@CalvinRemsburg0/videos) - канал Кевина Ремсбурга, по большей части стримы по сетевой автоматизации
