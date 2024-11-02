@@ -77,7 +77,7 @@ ___
 - [@EvilWirelessChat](https://t.me/EvilWirelessChat) - злой Wireless чат
 
 ## Security чаты
-- [@tlsusegroup](https://t.me/tlsusegroup) - группа для обсуждения и помощи участникам в вопросах использования Российских реализаций ГОСТ TLS (Континент TLS, КриптоПРО Ngate, VIPNet TLS)
+- Please stand by...
 
 ## Каналы по сетям 
 - [@linkmeup_podcast](https://t.me/linkmeup_podcast) - канал Linkmeup
@@ -112,7 +112,6 @@ ___
 - [vincent.bernat.ch](https://vincent.bernat.ch/en) - блоги инженера из французского ISP, Vincent Bernat
 - [networkdefenseblog.com](https://www.networkdefenseblog.com) - блог инженера (сети, автоматизация, безопасность), Brandon Hitzel
 - [majornetwork.net](https://majornetwork.net/) - блог сетевого архитектора из Финляндии, Markku Leiniö
-- [Nick Russo Website Homepage](https://njrusmc.net) - сайт сетевого инженера Ника Руссо (RIP)
 
 ## Безопасность
 - [yurisk.info](https://yurisk.info) - блог по Fortinet (и не только) Юрия Слободянюка, сетевого инженера и FW эксперта
@@ -123,7 +122,8 @@ ___
 - [woohung.github.io](https://woohung.github.io/) - блог за авторством меня
 - [Blog Andrea Dainese](https://www.adainese.it/#about) - блог Andrea Dainese одного из отцов Unetlab
 - [kaonbytes](https://kaonbytes.com) - блок сетевика автоматизатора с описанием комплексных кейсов
-- [ScriptNinja](https://scriptninja.blog/) - блок сетевого инженера из Австралии про автоматизацию.
+- [ScriptNinja](https://scriptninja.blog/) - блок сетевого инженера из Австралии про автоматизацию
+- [Infrastructure as Code Blog](https://infrastructureascode.ch) - блог по сетевой автоматизации инженера из Швейцарии
 
 ## Python
 - [martinheinz](https://martinheinz.dev) - блог software developer/DevOps engineer из Словакии
@@ -147,7 +147,6 @@ ___
 - [Linux Kernel Map](https://makelinux.github.io/kernel/map/) - Карта ядра Linux
 - [open-source-networking-projects](https://packetpushers.net/blog/open-source-networking-projects/) - Open-source проекты по сетям
 - [bgp.tools](https://bgp.tools) - realtime BGP collector
-- [bscottrandall.com](http://www.bscottrandall.com) - разборы тем CCIE, вполне годится как справочник
 - [looking-glasses](https://www.bgp4.as/looking-glasses/) - список BGP LG
 - [nornir.tech templates](https://textfsm.nornir.tech) - удобное написание шаблонов TextFSM, TTP, Jinja2
 - [VIM how works](https://moolenaar.net/habits.html) - философия VIM
@@ -185,12 +184,12 @@ ___
 - [LabHub](https://labhub.eu.org) - Образы для Eve-ng/Pnetlab/GNS3
   - [Telegram LabHub](https://t.me/NetLabHub) - Новостная телега проекта LabHub
 ## Эмуляторы
-- [ns3]()
-- [gns3]()
-- [eve-ng]()
-- [pnetlab]()
-- [containerlab]()
-- [netlab]()
+- [ns3](https://www.nsnam.org) - эмулятор сети на основе моделей на C++/Pythoh
+- [gns3](https://www.gns3.com) - эмулятор GNS3
+- [eve-ng](https://www.eve-ng.net) - эмулятор eve-ng
+- [pnetlab](https://pnetlab.com/pages/main) - эмулятор pnetlab (форк eve-ng)
+- [containerlab](https://containerlab.dev) - эмулятор containerlab на основе подхода IaC
+- [netlab](https://netlab.tools) - эмулятор netlab от деда Ивана Пепельняка
 
 # Полезные Github-репозитории
 - [useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - все полезное по WI-FI в одном месте
@@ -206,6 +205,7 @@ ___
 - [Linkmeup](https://linkmeup.ru/podcasts/) - один из крупных ru подкастов по сетям и не только, доступен в [iTunes](https://itunes.apple.com/ru/podcast/linkmeup.-pervyj-podkast-dla/id1065445951?mt=2), [Google  Подкастах](https://podcasts.google.com/feed/aHR0cHM6Ly9saW5rbWV1cC5ydS9yc3MvcG9kY2FzdHM), [Яндекс Музыке](https://music.yandex.ru/album/7060168), [YouTube](https://youtube.com/c/linkmeup-podcast).
 - [NetDevOps Live!](https://www.youtube.com/playlist?list=PL2k86RlAekM-0_lErsVdS_xqQMLYRcdhU) - подкаст с Хэнком Престоном([@hfpreston](https://twitter.com/hfpreston)) и Ко (*более не ведется, но есть куча полезных записей*)
 - [The Art of Network Engineering](https://www.youtube.com/channel/UCqY5QnYKJZE8tH7yhxmN5DA) - подкаст The Art of Network Engineering на YouTube
+- [Tech Field Day Podcast](https://www.youtube.com/playlist?list=PL4esUX7mpOVYiXf7mUqKDPmvV_ng39nHI) - Подкаст Tech Field на YouTube
 
 # Must read RFCs
 - [RFC 1925 - 12 Network Truth](https://www.rfc-editor.org/rfc/rfc1925)
