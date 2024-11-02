@@ -161,8 +161,33 @@ ___
 - [Computer Networks](https://www.sciencedirect.com/journal/computer-networks/issues) - Архив выпусков журнала "Computer Networks"
 
 ## Youtube каналы
+### Automation
+- [Netbox Labs](https://www.youtube.com/@NetBoxLabs/videos) - видео по работе с Netbox
+- [Network Automation Forum](https://www.youtube.com/@NetworkAutomationForum/videos) - канал ивента Network Automation Forum 
+- [0x2142 - Networking Nonsense](https://www.youtube.com/@0x2142/videos) - практические гайды по инструментам автоматизации 
 - [Calvin Remsburg](https://www.youtube.com/@CalvinRemsburg0/videos) - канал Кевина Ремсбурга, по большей части стримы по сетевой автоматизации
-- Please stand by...
+- [Network to Code](https://www.youtube.com/@networktocode6721) - канал сообщества Network to Code 
+- [Talk Python](https://www.youtube.com/@talkpython) - канал проекта Talk Python
+- [Дмитрий Фиголь](https://www.youtube.com/@dmfigol_live_archive) - архивный канал сетевого инженера, а ныне Senior Cloud Infrastructure Architect в AWS, Димы Фиголя
+- [Packet Coders](https://www.youtube.com/@packetcoders/featured) - канал сообщества по сетевой автоматизации Packet Coders
+### Network
+- [Tech Field Day](https://www.youtube.com/@Techfieldday) - канал проекта Tech Field 
+- [Packet Pushers](https://www.youtube.com/@PacketPushersNetwork/videos) - канал проекта Packet Pushers 
+- [NANOG](https://www.youtube.com/@TeamNANOG) - канал ивента NANOG
+- [Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab) - канал сетевого инженера Джереми, автора подкаста по подготовке к CCNA
+- [NetSkills](https://www.youtube.com/@netskills) - канал Евгения Олькова, по сетям для начинающих и другим темам
+- [Network Evolution](https://www.youtube.com/@NetworkEvolution/playlists) - ультимативный канал по различным технологиям сетевой автоматизации 
+- [Practical Networking](https://www.youtube.com/@PracticalNetworking/videos) - видео по различным сетевым технологиям 
+- [INEtraining](https://www.youtube.com/@INEtraining) - канал учебного центра INE
+### Wireless
+- [Личный канал Кости Баженина](https://www.youtube.com/@MrGcastle2007) - активный участник комьюнити EvilWirelessMan и ekahau_rus, организатор Wi-Fi марафона 
+- [ПроWIFI](https://www.youtube.com/@PRO802.11) - канал стартапа ПроWIFI, ведет сертифицированный wireless инженер
+- [Clear to Send](https://www.youtube.com/@ClearToSend/videos) - канал проекта Clear to Send о беспроводных технологиях
+- [Wireless LAN Professionals](https://www.youtube.com/@WirelessLANProfessionals) - канал комьюнити Wireless LAN Professionals
+- [Бит.Wi-Fi](https://www.youtube.com/@Bit.Wi-Fi/videos) - архивы видео по различным темам в беспроводных технологиях от Первый.Бит
+- [Вера Дроздова](https://www.youtube.com/@VeraDrozdova1440/videos) - видео преподавателя Веры Дроздовой про LTE и мобильные сети
+- [CWNP](https://www.youtube.com/@CWNPTV/videos) - канал сообщества CWNP
+- [RF Elements](https://www.youtube.com/@Rfelements) - лучше по подаче видео о беспроводных технологиях 
 
 ## Книги
 ### Начинающим
@@ -206,6 +231,9 @@ ___
 - [NetDevOps Live!](https://www.youtube.com/playlist?list=PL2k86RlAekM-0_lErsVdS_xqQMLYRcdhU) - подкаст с Хэнком Престоном([@hfpreston](https://twitter.com/hfpreston)) и Ко (*более не ведется, но есть куча полезных записей*)
 - [The Art of Network Engineering](https://www.youtube.com/channel/UCqY5QnYKJZE8tH7yhxmN5DA) - подкаст The Art of Network Engineering на YouTube
 - [Tech Field Day Podcast](https://www.youtube.com/playlist?list=PL4esUX7mpOVYiXf7mUqKDPmvV_ng39nHI) - Подкаст Tech Field на YouTube
+- [Clear to Send](https://www.cleartosend.net/category/podcast/) - подкаст о беспроводных технологиях
+- [Packet Pushers Podcasts](https://packetpushers.net/podcasts/) - подкаст Packet Pushers на разные сетевые и не очень темы
+- [Talk Python Podcast](https://talkpython.fm) - подскаст по различным темам Python
 
 # Must read RFCs
 - [RFC 1925 - 12 Network Truth](https://www.rfc-editor.org/rfc/rfc1925)
