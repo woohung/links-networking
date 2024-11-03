@@ -94,6 +94,7 @@ ___
 - [@pbvasiliev](https://t.me/pbvasiliev) - новости, как их видит оператор связи в Москве
 - [@snakeslair](https://t.me/snakeslair) - канал Алексея Учакина, сети, дата-центры и котики
 - [@ieucariot](https://t.me/ieucariot) - канал Марата Сибгатулина, автор СДСМ/АДСМ/Где сохранить пакет, ныне руководительствует сетевиками в Яндексе
+- [@Telecomreview](https://t.me/Telecomreview) - канал про новости нормативки в телекоме
 
 ## Каналы по wireless
 - [@EvilWirelessMan](https://t.me/EvilWirelessMan) - канал от Evil Wireless чатика
