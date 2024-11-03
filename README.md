@@ -117,6 +117,8 @@ ___
 - [vincent.bernat.ch](https://vincent.bernat.ch/en) - блоги инженера из французского ISP, Vincent Bernat
 - [networkdefenseblog.com](https://www.networkdefenseblog.com) - блог инженера (сети, автоматизация, безопасность), Brandon Hitzel
 - [majornetwork.net](https://majornetwork.net/) - блог сетевого архитектора из Финляндии, Markku Leiniö
+- [Материалы из блога Ника Руссо #1](https://github.com/kaelemc/NickRussoContent) - сырые файлы на github
+- [Материалы из блога Ника Руссо #2](https://web.archive.org/web/20240807144237/https://njrusmc.net/) - копия на web-archive, ныне недоступного блога Ника Руссо 
 
 ## Безопасность
 - [yurisk.info](https://yurisk.info) - блог по Fortinet (и не только) Юрия Слободянюка, сетевого инженера и FW эксперта
