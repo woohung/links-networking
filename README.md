@@ -36,9 +36,10 @@
 - **Лаборатория юного сетевика**
   - [Образы](#образы)
   - [Эмуляторы](#эмуляторы)
-
-- [**Полезные Github-репозитории**](#полезные-github-репозитории)
-- [**Полезные боты**](#полезные-боты)
+- [**Полезное в работе**](#полезное-в-работе)
+  - [Github репозитории](#github-репозитории)
+  - [Прошивки](#firmware)
+  - [Боты](#боты)
 - [**Подкасты**](#подкасты)
 - [**Must read RFCs**](#must-read-rfcs)
 ___
@@ -54,7 +55,7 @@ ___
 - [@mikrotik_rus](https://t.me/mikrotik_rus) - комьюнити Mikrotik
 - [@usergate](https://t.me/usergate) - комьюнити UserGate
 - [@apksh](https://t.me/apksh) - комьюнити АПКШ Континент
-- [@eveng_rus](https://t.me/eveng_rus) - комьюнити по EVE-NG, разделено на несколько тематических чатов.
+- [@eveng_rus](https://t.me/eveng_rus) - комьюнити по EVE-NG, разделено на несколько тематических чатов
 - [@Cisco_Collab](https://t.me/Cisco_Collab) - комьюнити Cisco Voice
 - [@cisco_collection_support](https://t.me/+dDkgC6YKCss1NjY0) - комьюнити cisco_collection_support
 - [@openwrt_ru](https://t.me/openwrt_ru) - комьюнити OpenWRT
@@ -83,12 +84,16 @@ ___
 - [@linkmeup_podcast](https://t.me/linkmeup_podcast) - канал Linkmeup
 - [@netskills](https://t.me/netskills) - канал сетевого инженера, Евгения Олькова, по базовым вещам в сетях
 - [@mikrotikninja](https://t.me/mikrotikninja) - канал инженера, Дмитрия Бубнова, с нотками девопса
-- [@arny_ru](https://t.me/arny_ru) - блог сетевого инженера, Андрея Лапшина, есть одноименный сайт (https://arny.ru/).
+- [@arny_ru](https://t.me/arny_ru) - блог сетевого инженера, Андрея Лапшина, есть одноименный сайт (https://arny.ru/)
 - [@ntwrkchnnl](https://t.me/ntwrkchnnl) - канал опытного сетевика из чата ntwrk
-- [@patchcord](https://t.me/patchcord) - новости из мира сетей в перемешку с авторским мнением.
+- [@patchcord](https://t.me/patchcord) - новости из мира сетей в перемешку с авторским мнением
 - [@school_network](https://t.me/school_network) - крупный канал по изучению сетей
 - [@terrible_telco](https://t.me/terrible_telco) - канал NOC-а Qrator Labs
-- [@NetArchNotes](https://t.me/NetArchNotes) - Заметки сетевого архитектора. С матами.
+- [@NetArchNotes](https://t.me/NetArchNotes) - заметки сетевого архитектора. С матами
+- [@like_a_bus_channel](https://t.me/like_a_bus_channel) - канал сетевика Сергея Бочарникова, с акцентом на ЦОДы, IP/MPLS и автоматизацию
+- [@pbvasiliev](https://t.me/pbvasiliev) - новости, как их видит оператор связи в Москве
+- [@snakeslair](https://t.me/snakeslair) - канал Алексея Учакина, сети, дата-центры и котики
+- [@ieucariot](https://t.me/ieucariot) - канал Марата Сибгатулина, автор СДСМ/АДСМ/Где сохранить пакет, ныне руководительствует сетевиками в Яндексе
 
 ## Каналы по wireless
 - [@EvilWirelessMan](https://t.me/EvilWirelessMan) - канал от Evil Wireless чатика
@@ -106,8 +111,8 @@ ___
 - [labnfun.ru](http://www.labnfun.ru) - блог Михаила Ермакова, увы, новых статей давно не было, но крайне много полезного материала по лабам
 - [arny.ru](https://arny.ru/) - блог опытного сетевика, откуда, отчасти, начался и мой путь
 - [yurmagccie.wordpress.com/](https://yurmagccie.wordpress.com/) - блог Юрия Руденко по сетям Cisco.
-- [theworldsgonemad.net/](https://theworldsgonemad.net/) - блог инженера из Лондона, сети + автоматизация (не обновляется с конца 2022 года).
-- [lostintransit.se](https://lostintransit.se) - блог инженера (сети, автоматизация), Daniel Dib, Senior Network Architect в Conscia Netsafe.
+- [theworldsgonemad.net/](https://theworldsgonemad.net/) - блог инженера из Лондона, сети + автоматизация (c 2023 взял перерыв от ИТ и пишет про лодки)
+- [lostintransit.se](https://lostintransit.se) - блог инженера (сети, автоматизация), Daniel Dib, Senior Network Architect в Conscia Netsafe
 - [blog.benjojo.co.uk](https://blog.benjojo.co.uk/) - блог создателя bgp.tools, Ben Cartwright-Cox
 - [vincent.bernat.ch](https://vincent.bernat.ch/en) - блоги инженера из французского ISP, Vincent Bernat
 - [networkdefenseblog.com](https://www.networkdefenseblog.com) - блог инженера (сети, автоматизация, безопасность), Brandon Hitzel
@@ -170,6 +175,7 @@ ___
 - [Talk Python](https://www.youtube.com/@talkpython) - канал проекта Talk Python
 - [Дмитрий Фиголь](https://www.youtube.com/@dmfigol_live_archive) - архивный канал сетевого инженера, а ныне Senior Cloud Infrastructure Architect в AWS, Димы Фиголя
 - [Packet Coders](https://www.youtube.com/@packetcoders/featured) - канал сообщества по сетевой автоматизации Packet Coders
+
 ### Network
 - [Tech Field Day](https://www.youtube.com/@Techfieldday) - канал проекта Tech Field 
 - [Packet Pushers](https://www.youtube.com/@PacketPushersNetwork/videos) - канал проекта Packet Pushers 
@@ -179,6 +185,9 @@ ___
 - [Network Evolution](https://www.youtube.com/@NetworkEvolution/playlists) - ультимативный канал по различным технологиям сетевой автоматизации 
 - [Practical Networking](https://www.youtube.com/@PracticalNetworking/videos) - видео по различным сетевым технологиям 
 - [INEtraining](https://www.youtube.com/@INEtraining) - канал учебного центра INE
+- [Selectel School - ЦОД](https://www.youtube.com/playlist?list=PLCHX0Xp-DjKr3ygEpSf44jZMuCkvIrW8S) - годный плейлист от Selectel о том, как устроены различные системы ЦОД
+- [Selectel Network Meetups](https://www.youtube.com/playlist?list=PLCHX0Xp-DjKqc-wQo_CGRWi3cLbyLDdDz) - плейлист с сетевыми митапами Selectel
+
 ### Wireless
 - [Личный канал Кости Баженина](https://www.youtube.com/@MrGcastle2007) - активный участник комьюнити EvilWirelessMan и ekahau_rus, организатор Wi-Fi марафона 
 - [ПроWIFI](https://www.youtube.com/@PRO802.11) - канал стартапа ПроWIFI, ведет сертифицированный wireless инженер
@@ -192,13 +201,14 @@ ___
 ## Книги
 ### Начинающим
 - Please stand by...
+
 ### Продолжающим
 - [Где сохранить пакет?](https://where-to-store-the-packet.readthedocs.io/en/latest/contents.html) - книжка Марата Сибгатулина о путеществии пакета
 - [Как работает TLS](https://tls.dxdt.ru/tls.html) - обстоятельное чтиво, если хотите разобраться в деталях TLS
 
 ## Курсы
 ### По сетям
-- [bgplabs.net](https://bgplabs.net) - не совсем курс, но вполне сойдет за самостоятельное погружение в BGP на основе лаб.
+- [bgplabs.net](https://bgplabs.net) - не совсем курс, но вполне сойдет за самостоятельное погружение в BGP на основе лаб
 
 ### По Автоматизации
 - [zerotohero.netbox.dev](https://zerotohero.netbox.dev) - Курс по вкатыванию в NetBox
@@ -208,6 +218,7 @@ ___
 ## Образы
 - [LabHub](https://labhub.eu.org) - Образы для Eve-ng/Pnetlab/GNS3
   - [Telegram LabHub](https://t.me/NetLabHub) - Новостная телега проекта LabHub
+
 ## Эмуляторы
 - [ns3](https://www.nsnam.org) - эмулятор сети на основе моделей на C++/Pythoh
 - [gns3](https://www.gns3.com) - эмулятор GNS3
@@ -216,15 +227,20 @@ ___
 - [containerlab](https://containerlab.dev) - эмулятор containerlab на основе подхода IaC
 - [netlab](https://netlab.tools) - эмулятор netlab от деда Ивана Пепельняка
 
-# Полезные Github-репозитории
+# Полезное в работе
+## Github репозитории
 - [useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - все полезное по WI-FI в одном месте
-- [ekahau-guides](https://github.com/gcastle2007/Ekahau) - небольшие гайды на частые проблемы/задачи c Ekahau/Sidecick.
+- [ekahau-guides](https://github.com/gcastle2007/Ekahau) - небольшие гайды на частые проблемы/задачи c Ekahau/Sidecick
 - [ntwrk.today](https://tg-ntwrk.github.io/ntwrk.today) - каталог статей от участников группы Telegram [@ntwrk](https://t.me/ntwrk)
 - [awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - awesome по автоматизации
 - [awesome-networking](https://github.com/facyber/awesome-networking) - awesome по сетям
 
-# Полезные боты
+## Firmware
+- [FortiFW](http://dl.partian.co) - прошивки для оборудования на букву F
+
+## Боты
 - [@networkeducationbot](https://t.me/networkeducationbot) - бот network education с рандомными теоретическими вопросами
+- [@FullViewBGPbot](https://t.me/FullViewBGPbot) - ежедневная статистика по состоянию BGP маршрутов в Интенете
 
 # Подкасты
 - [Linkmeup](https://linkmeup.ru/podcasts/) - один из крупных ru подкастов по сетям и не только, доступен в [iTunes](https://itunes.apple.com/ru/podcast/linkmeup.-pervyj-podkast-dla/id1065445951?mt=2), [Google  Подкастах](https://podcasts.google.com/feed/aHR0cHM6Ly9saW5rbWV1cC5ydS9yc3MvcG9kY2FzdHM), [Яндекс Музыке](https://music.yandex.ru/album/7060168), [YouTube](https://youtube.com/c/linkmeup-podcast).
