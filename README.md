@@ -48,7 +48,7 @@ ___
 - [@fortichat](https://t.me/fortichat) - комьюнити Fortinet
 - [@arista_community_ru](https://t.me/arista_community_ru) - комьюнити Arista
 - [@arubahpe](https://t.me/arubahpe) - комьюнити HPE/Aruba
-- [@huawei_rus](https://t.me/+EK8_iSyCXw5kNzdi) - комьюнити Huawei
+- [Линк на мою телегу, там решим](https://t.me/woo_hung) - комьюнити Huawei
 - [@jncie_talks](https://t.me/jncie_talks) - комьюнити Juniper
 - [@Keenetic_ru](https://t.me/Keenetic_ru) - комьюнити Keenetic
 - [@ekahau_rus](https://t.me/ekahau_rus) - комьюнити Ekahau
