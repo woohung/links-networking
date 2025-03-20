@@ -133,6 +133,7 @@ ___
 - [kaonbytes](https://kaonbytes.com) - блок сетевика автоматизатора с описанием комплексных кейсов
 - [ScriptNinja](https://scriptninja.blog/) - блок сетевого инженера из Австралии про автоматизацию
 - [Infrastructure as Code Blog](https://infrastructureascode.ch) - блог по сетевой автоматизации инженера из Швейцарии
+- [Karneliuk](https://karneliuk.com) - блог Anton Karneliuk
 
 ## Python
 - [martinheinz](https://martinheinz.dev) - блог software developer/DevOps engineer из Словакии
