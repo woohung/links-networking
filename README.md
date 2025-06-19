@@ -241,7 +241,7 @@ ___
 - [awesome-networking](https://github.com/facyber/awesome-networking) - awesome по сетям
 
 ## Firmware
-- [FortiFW](http://dl.partian.co) - прошивки для оборудования на букву F
+- [FortiFW](https://fortiweb.ru/en/) - прошивки для оборудования на букву F
 
 ## Боты
 - [@networkeducationbot](https://t.me/networkeducationbot) - бот network education с рандомными теоретическими вопросами
