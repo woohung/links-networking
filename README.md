@@ -96,6 +96,7 @@ ___
 - [@snakeslair](https://t.me/snakeslair) - канал Алексея Учакина, сети, дата-центры и котики
 - [@ieucariot](https://t.me/ieucariot) - канал Марата Сибгатулина, автор СДСМ/АДСМ/Где сохранить пакет, ныне руководительствует сетевиками в Яндексе
 - [@Telecomreview](https://t.me/Telecomreview) - канал про новости нормативки в телекоме
+- [@network_quiz](https://t.me/network_quiz) - канал с различными квизами по сетевой тематике (архивный)
 
 ## Каналы по wireless
 - [@EvilWirelessMan](https://t.me/EvilWirelessMan) - канал от Evil Wireless чатика
