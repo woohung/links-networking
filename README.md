@@ -97,6 +97,7 @@ ___
 - [@ieucariot](https://t.me/ieucariot) - канал Марата Сибгатулина, автор СДСМ/АДСМ/Где сохранить пакет, ныне руководительствует сетевиками в Яндексе
 - [@Telecomreview](https://t.me/Telecomreview) - канал про новости нормативки в телекоме
 - [@network_quiz](https://t.me/network_quiz) - канал с различными квизами по сетевой тематике (архивный)
+- [@life_of_network_engineer](https://t.me/life_of_network_engineer) - канал Дмитрия Ипатова, Okko. Про сети, CDN, менеджмент, интересные наблюдения, рабочие задачи и немного о том, как живут сетевики
 
 ## Каналы по wireless
 - [@EvilWirelessMan](https://t.me/EvilWirelessMan) - канал от Evil Wireless чатика
