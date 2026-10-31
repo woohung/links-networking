@@ -162,6 +162,7 @@ ___
 - [looking-glasses](https://www.bgp4.as/looking-glasses/) - список BGP LG
 - [nornir.tech templates](https://textfsm.nornir.tech) - удобное написание шаблонов TextFSM, TTP, Jinja2
 - [VIM how works](https://moolenaar.net/habits.html) - философия VIM
+- [Прокси работает в curl, но не в приложении](https://portproof.org/ru/guides/proxy-works-in-curl-but-not-in-your-app) - поэтапная проверка настроек клиента, окружения процесса и этапа соединения
 
 ## Cheat-Sheet
 - [The Illustrated QUIC Connection](https://quic.xargs.org) - как работает QUIC
